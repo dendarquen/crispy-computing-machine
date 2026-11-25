@@ -4,4 +4,8 @@ function login_1() {
 
 function devAvance() {
     return true;
+};;
+
+function loginAvance() {
+    return false;
 };
